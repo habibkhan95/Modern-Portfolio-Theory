@@ -2,4 +2,4 @@
 Markowitz Efficient Frontier (python)
 
 
-## {{ font colout | Red | Note: Final Revision in progress }}
+## {{ font color | red | Note: Final Revision in progress }}
